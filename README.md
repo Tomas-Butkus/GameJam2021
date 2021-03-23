@@ -1,2 +1,3 @@
 # GameJam2021
-2D Platformer
+Theme: Lost & Found
+Genre: 2D Platformer
